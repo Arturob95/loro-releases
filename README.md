@@ -1,11 +1,20 @@
 # Loro
 
-**Tú hablas, Loro escribe.** Dictado por voz y notas de tus reuniones con IA, para Windows, en español y en inglés.
+**Tú hablas, Loro escribe.** Dictado por voz y notas de reuniones con IA, para Windows y Mac, en español y en inglés.
 
-**You talk, Loro writes.** Voice dictation and AI meeting notes for Windows, in English and Spanish.
+**You talk, Loro types.** AI voice dictation and meeting notes for Windows and Mac, in English and Spanish.
 
-- Descargar / Download: **https://heyloro.app/descargar**
-- Web: https://heyloro.app
+## Descargar / Download
+
+- Windows 10 y 11: **https://heyloro.app/descargar**
+- Mac con chip de Apple / Apple chip: **https://heyloro.app/descargar/mac**
+- Mac con Intel / Intel: **https://heyloro.app/descargar/mac-intel**
+
+## Más / More
+
+- Web: https://heyloro.app · https://heyloro.app/en
+- Ayuda / Help: https://heyloro.app/ayuda · https://heyloro.app/en/help
+- Novedades / Changelog: https://heyloro.app/novedades · https://heyloro.app/en/changelog
 - Privacidad / Privacy: https://heyloro.app/privacidad
 
 Aquí están los instaladores de cada versión de Loro. Loro se actualiza solo: no hace falta bajar cada versión.
